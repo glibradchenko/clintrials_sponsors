@@ -15,7 +15,7 @@ Sponsor,Year,Value
 3-C Institute for Social Development,2017,2
 3-C Institute for Social Development,2018,1
 3-D Matrix Europe SAS,2017,1
-3-D Matrix Europe SAS,2018,1
+3-D Matrix Europe SASЬ,2018,1
 "3D Medicines (Sichuan) Co., Ltd.",2017,2
 "3D Medicines (Sichuan) Co., Ltd.",2018,2
 3E Therapeutics Corporation,2015,1
@@ -68,7 +68,6 @@ A.O. Ospedale Papa Giovanni XXIII,2008,2
 A.O. Ospedale Papa Giovanni XXIII,2010,1
 A.O. Ospedale Papa Giovanni XXIII,2011,1
 A.T. Resolve SARL,2014,1
-A2 Healthcare Taiwan Corporation,2019,1
 AA Secord,2013,1
 AA Secord,2016,1
 AAADRS Clinical Research Center,2007,1
@@ -181,7 +180,6 @@ AIDS Malignancy Consortium,2015,5
 AIDS Malignancy Consortium,2016,1
 AIDS Malignancy Consortium,2017,1
 AIDS Malignancy Consortium,2018,2
-AIDS Malignancy Consortium,2019,1
 AIM Therapeutics Inc.,2012,1
 AIO-Studien-gGmbH,2009,2
 AIO-Studien-gGmbH,2010,1
@@ -247,7 +245,6 @@ AO Clinical Investigation and Documentation,2009,2
 AO Clinical Investigation and Documentation,2011,1
 AO Clinical Investigation and Documentation,2016,3
 AO Clinical Investigation and Documentation,2017,1
-AO Clinical Investigation and Documentation,2019,1
 AOBiome LLC,2015,2
 AOBiome LLC,2016,3
 AOBiome LLC,2017,1
@@ -290,7 +287,6 @@ ARCAGY/ GINECO GROUP,2015,3
 ARCAGY/ GINECO GROUP,2016,1
 ARCAGY/ GINECO GROUP,2017,1
 ARCAGY/ GINECO GROUP,2018,1
-ARCAGY/ GINECO GROUP,2019,1
 ARCH Therapuetics,2016,1
 ARCTEC,2018,1
 ARMO BioSciences,2013,1
@@ -399,7 +395,7 @@ AbbVie,2011,3
 AbbVie,2012,6
 AbbVie,2013,43
 AbbVie,2014,55
-AbbVie,2015,70
+AbbVie,2015,70.001
 AbbVie,2016,57
 AbbVie,2017,59
 AbbVie,2018,44
@@ -747,7 +743,6 @@ Acist Medical Systems,2015,1
 "Aclaris Therapeutics, Inc.",2016,3
 "Aclaris Therapeutics, Inc.",2017,6
 "Aclaris Therapeutics, Inc.",2018,8
-"Aclaris Therapeutics, Inc.",2019,1
 "Acologix, Inc.",2007,1
 "Acologix, Inc.",2009,1
 Acorda Therapeutics,2002,2
@@ -816,7 +811,6 @@ ActiViews Ltd.,2008,2
 ActiViews Ltd.,2009,1
 ActiViews Ltd.,2010,3
 ActiViews Ltd.,2011,1
-Acticor Biotech,2019,1
 Actinium Pharmaceuticals,2012,1
 Actinium Pharmaceuticals,2016,2
 Actinogen Medical,2015,1
@@ -1352,7 +1346,6 @@ Akebia Therapeutics,2015,3
 Akebia Therapeutics,2016,5
 Akebia Therapeutics,2017,2
 Akebia Therapeutics,2018,7
-Akebia Therapeutics,2019,1
 "Akela Pharma, Inc.",2008,1
 Aker Biomarine Antarctic AS,2011,1
 Aker Biomarine Antarctic AS,2014,1
@@ -1420,7 +1413,6 @@ Albert Einstein College of Medicine,2018,1
 Albert Einstein Healthcare Network,2006,1
 Albert Einstein Healthcare Network,2008,2
 Albert Einstein Healthcare Network,2017,2
-Albert Einstein Healthcare Network,2019,1
 Albert Koong,2011,1
 Albert Park,2018,1
 Albert Schweitzer Hospital,2005,1
@@ -1702,7 +1694,6 @@ Alliancells Bioscience Corporation Limited,2013,1
 Alliancells Bioscience Corporation Limited,2014,1
 "Alliancells-PuRui Biocience Co., Ltd.",2014,1
 "Allife Medical Science and Technology Co., Ltd.",2018,3
-"Allife Medical Science and Technology Co., Ltd.",2019,2
 Alligator Bioscience AB,2015,1
 Allina Health System,2011,1
 "Alliqua BioMedical, Inc",2015,1
@@ -2156,7 +2147,6 @@ AnewPharma,2013,1
 AnewPharma,2015,2
 AnewPharma,2017,1
 AnewPharma,2018,3
-AnewPharma,2019,1
 "Angde Biotech Pharmaceutical Co., Ltd.",2017,1
 Angel Medical Systems,2008,1
 Angela Bianco,2018,1
@@ -2493,7 +2483,6 @@ Arbeitsgemeinschaft medikamentoese Tumortherapie,2013,1
 Arbeitsgemeinschaft medikamentoese Tumortherapie,2014,1
 Arbeitsgemeinschaft medikamentoese Tumortherapie,2016,1
 Arbeitsgemeinschaft medikamentoese Tumortherapie,2017,3
-Arbeitsgemeinschaft medikamentoese Tumortherapie,2019,1
 "Arbelaez, Ana Maria",2006,1
 "Arbor Pharmaceuticals, Inc.",2012,2
 "Arbor Pharmaceuticals, Inc.",2013,5
@@ -2517,7 +2506,6 @@ Archimedes Development Ltd,2007,2
 Archimedes Development Ltd,2012,2
 Archivel Farma S.L.,2010,1
 Archivel Farma S.L.,2017,1
-Archivel Farma S.L.,2019,1
 "Archus Orthopedics, Inc.",2005,1
 Arcion Therapeutics Inc,2008,1
 Arcispedale Santa Maria Nuova-IRCCS,2002,1
@@ -2756,7 +2744,6 @@ Asana BioSciences,2015,1
 Asana BioSciences,2016,2
 Asana BioSciences,2017,1
 Asana BioSciences,2018,3
-Asana BioSciences,2019,1
 Asarina Pharma,2018,1
 Ascend Biopharmaceuticals Ltd,2015,1
 Ascend Biopharmaceuticals Ltd,2017,1
@@ -3026,8 +3013,8 @@ Astion Pharma A/S,2006,1
 Astion Pharma A/S,2007,1
 Aston University,2015,1
 AstraZeneca,1999,6
-AstraZeneca,2000,10
-AstraZeneca,2001,28
+AstraZeneca,2000,10.001
+AstraZeneca,2001,28.001
 AstraZeneca,2002,64
 AstraZeneca,2003,89
 AstraZeneca,2004,116
@@ -3723,8 +3710,8 @@ Bayer,2009,100
 Bayer,2010,75
 Bayer,2011,72
 Bayer,2012,57
-Bayer,2013,78
-Bayer,2014,66
+Bayer,2013,78.001
+Bayer,2014,66.001
 Bayer,2015,141
 Bayer,2016,108
 Bayer,2017,58
@@ -3885,7 +3872,6 @@ Belgian IBD Research Group,2001,1
 Belkin Laser Ltd.,2018,1
 Bellerophon,2015,1
 Bellerophon,2016,1
-Bellerophon,2019,1
 Bellerophon BCM LLC,2012,1
 Bellerophon Pulse Technologies,2012,2
 Bellerophon Pulse Technologies,2016,2
@@ -3899,7 +3885,6 @@ Bellicum Pharmaceuticals,2015,1
 Bellicum Pharmaceuticals,2016,2
 Bellicum Pharmaceuticals,2017,2
 Bellicum Pharmaceuticals,2018,2
-Bellicum Pharmaceuticals,2019,2
 Bellus Health Inc,2001,1
 Bellus Health Inc,2003,1
 Bellus Health Inc,2004,1
@@ -4011,7 +3996,6 @@ Bethesda Krankenhaus,2010,1
 "Betta Pharmaceuticals Co., Ltd.",2016,5
 "Betta Pharmaceuticals Co., Ltd.",2017,4
 "Betta Pharmaceuticals Co., Ltd.",2018,8
-"Betta Pharmaceuticals Co., Ltd.",2019,1
 "Bexion Pharmaceuticals, LLC.",2016,1
 BeyondBio Inc.,2018,1
 BeyondSpring Pharmaceuticals Inc.,2016,1
@@ -4274,7 +4258,6 @@ BioStratum,2002,1
 "BioSurface Engineering Technologies, Inc",2008,2
 "BioSurface Engineering Technologies, Inc",2011,1
 BioSync Scientific Pvt. Ltd.,2007,1
-BioSyngen Pte Ltd,2019,1
 BioSyntech Canada Inc.,2007,1
 BioTech Tools S.A.,2008,1
 BioTech Tools S.A.,2009,1
@@ -4747,7 +4730,6 @@ Bispebjerg Hospital,2010,1
 Bispebjerg Hospital,2012,1
 Bispebjerg Hospital,2014,5
 Bispebjerg Hospital,2016,2
-Bispebjerg Hospital,2019,1
 Bital Savir-Baruch,2018,1
 Bitop AG,2009,3
 Bitop AG,2010,3
@@ -4787,7 +4769,6 @@ Bluegrass Vascular Technologies,2017,2
 Blueprint Medicines Corporation,2015,4
 Blueprint Medicines Corporation,2017,1
 Blueprint Medicines Corporation,2018,2
-Blueprint Medicines Corporation,2019,1
 Bnai Zion Medical Center,2008,1
 Bnai Zion Medical Center,2014,1
 Bo Feldt-Rasmussen,2011,1
@@ -4814,7 +4795,7 @@ Boehringer Ingelheim,2013,75
 Boehringer Ingelheim,2014,82
 Boehringer Ingelheim,2015,52
 Boehringer Ingelheim,2016,79
-Boehringer Ingelheim,2017,74
+Boehringer Ingelheim,2017,74.001
 Boehringer Ingelheim,2018,43
 Boehringer Labs LLC,2017,2
 Boise VA Medical Center,2015,1
@@ -4886,7 +4867,6 @@ Boston Children’s Hospital,2014,2
 Boston Children’s Hospital,2015,1
 Boston Children’s Hospital,2017,3
 Boston Children’s Hospital,2018,3
-Boston Children’s Hospital,2019,1
 Boston Heart Diagnostics,2013,1
 Boston Heart Diagnostics,2018,1
 Boston IVF,2011,1
@@ -4976,7 +4956,6 @@ Brahms AG,2009,1
 Brahms AG,2011,1
 Brahms AG,2015,1
 Brahms AG,2018,1
-Brahms AG,2019,1
 Brahms France,2007,1
 Brain Scan Inc.,2016,1
 "Brain State Technologies, LLC",2018,1
@@ -5011,7 +4990,6 @@ Brainsway,2012,2
 Brainsway,2014,5
 Brainsway,2015,1
 Brainsway,2017,1
-Brainsway,2019,1
 Braintree Laboratories,1999,1
 Braintree Laboratories,2001,2
 Braintree Laboratories,2003,3
@@ -5362,7 +5340,6 @@ CPL Associates,2007,1
 CPL Associates,2008,1
 CPL Associates,2012,1
 CR-CSSS Champlain-Charles-Le Moyne,2014,1
-CRG UZ Brussel,2019,1
 CRI Lifetree,2012,1
 CS Diagnostics GmbH,2013,1
 "CSA Medical, Inc.",2007,2
@@ -5559,7 +5536,6 @@ Can-Fite BioPharma,2011,2
 Can-Fite BioPharma,2014,1
 Can-Fite BioPharma,2017,2
 Can-Fite BioPharma,2018,2
-Can-Fite BioPharma,2019,1
 CanBas Co. Ltd.,2006,1
 CanBas Co. Ltd.,2008,1
 CanBas Co. Ltd.,2009,1
@@ -5680,7 +5656,6 @@ Capstone Therapeutics,2009,3
 "Cara Therapeutics, Inc.",2017,1
 "Cara Therapeutics, Inc.",2018,3
 Carag AG,2014,1
-Carag AG,2019,1
 CarboFix Orthopedics Ltd.,2014,1
 Carbon Medical Technologies,2004,1
 Carbon Medical Technologies,2008,1
@@ -5772,7 +5747,6 @@ Cardiome Pharma,2012,1
 Cardiometabolics,2007,1
 Cardionet,2005,1
 Cardionovum GmbH,2016,1
-Cardionovum GmbH,2019,1
 Cardiopulmonary Research Science and Technology Institute,2009,1
 Cardiopulmonary Research Science and Technology Institute,2010,1
 Cardiora Pty. Ltd.,2018,1
@@ -5971,7 +5945,6 @@ CathWorks Ltd.,2017,2
 Catharina Ziekenhuis Eindhoven,2006,1
 Catharina Ziekenhuis Eindhoven,2007,1
 Catharina Ziekenhuis Eindhoven,2018,1
-Catharina Ziekenhuis Eindhoven,2019,1
 Catherine Chappell,2016,1
 Catherine Mikus,2018,1
 "Catheter Robotics, Inc.",2010,1
@@ -6001,7 +5974,6 @@ Cebix Incorporated,2011,1
 Cebix Incorporated,2012,1
 Ceck Cap Ltd.,2011,1
 Ceck Cap Ltd.,2016,1
-Ceck Cap Ltd.,2019,1
 Cedars-Sinai Medical Center,1999,1
 Cedars-Sinai Medical Center,2002,1
 Cedars-Sinai Medical Center,2003,2
@@ -6020,7 +5992,6 @@ Cedars-Sinai Medical Center,2015,2
 Cedars-Sinai Medical Center,2016,1
 Cedars-Sinai Medical Center,2017,4
 Cedars-Sinai Medical Center,2018,8
-Cedars-Sinai Medical Center,2019,1
 Ceek Enterprises,2017,1
 "Ceevra, Inc.",2017,1
 "Ceevra, Inc.",2018,4
@@ -6126,10 +6097,8 @@ Cellect Biotechnology,2018,1
 "Cellectar Biosciences, Inc.",2014,2
 "Cellectar Biosciences, Inc.",2015,1
 "Cellectar Biosciences, Inc.",2017,1
-"Cellectar Biosciences, Inc.",2019,1
 "Cellectar, Inc",2009,1
 Cellectis S.A.,2017,2
-"Cellenkos, Inc.",2019,1
 Cellerant Therapeutics,2009,1
 Cellerant Therapeutics,2011,1
 Cellerant Therapeutics,2014,1
@@ -6247,7 +6216,6 @@ Center for International Blood and Marrow Transplant Research,2015,1
 "Center for Outcomes Research and Clinical Epidemiology, Italy",2016,1
 "Center for Rare Neurological Diseases, Norcross, GA",2016,1
 Center for Reproductive an Genetic Health,2016,1
-Center for Reproductive an Genetic Health,2019,1
 Center for Supporting Hematology-Oncology Trials,2005,1
 Center for Vulvovaginal Disorders,2006,1
 Center for Vulvovaginal Disorders,2018,1
@@ -6366,7 +6334,6 @@ Centre Hospitalier Universitaire de Nīmes,2014,1
 Centre Hospitalier Universitaire de Nīmes,2015,2
 Centre Hospitalier Universitaire de Nīmes,2016,1
 Centre Hospitalier Universitaire de Nīmes,2017,2
-Centre Hospitalier Universitaire de Nīmes,2019,1
 Centre Hospitalier Universitaire de Saint Etienne,2004,1
 Centre Hospitalier Universitaire de Saint Etienne,2006,1
 Centre Hospitalier Universitaire de Saint Etienne,2007,1
@@ -6784,7 +6751,6 @@ Children's Hospital of Philadelphia,2015,3
 Children's Hospital of Philadelphia,2016,5
 Children's Hospital of Philadelphia,2017,2
 Children's Hospital of Philadelphia,2018,4
-Children's Hospital of Philadelphia,2019,1
 Children's Hospital of The King's Daughters,2006,1
 Children's Hospitals and Clinics of Minnesota,2006,1
 Children's Hospitals and Clinics of Minnesota,2010,1
@@ -6922,7 +6888,6 @@ Christopher Ellis,2018,1
 "Christopher Hoimes, M.D.",2015,1
 Christopher Kaeding,2018,1
 Christopher O'Brien,2014,1
-"Christopher O'Brien, MD",2019,1
 "Christopher Sweeney, MBBS",2003,1
 "Christopher Sweeney, MBBS",2005,2
 Chroma Therapeutics,2004,1
@@ -7224,7 +7189,6 @@ Cochlear Bone Anchored Solutions,2017,1
 "Cocrystal Pharma, Inc.",2018,1
 Codelco,2012,1
 Codexis Inc.,2018,1
-Codexis Inc.,2019,1
 Codman & Shurtleff,2004,6
 Codman & Shurtleff,2005,1
 Codman & Shurtleff,2006,2
@@ -7309,7 +7273,6 @@ Coloplast A/S,2015,9
 Coloplast A/S,2016,10
 Coloplast A/S,2017,9
 Coloplast A/S,2018,4
-Coloplast A/S,2019,1
 "Colorado Center for Chronic Care Innovations, Inc.",2008,2
 Colorado Joint Replacement,2011,2
 Colorado Neurological Institute,2014,1
@@ -7338,7 +7301,6 @@ Columbia University,2015,5
 Columbia University,2016,6
 Columbia University,2017,1
 Columbia University,2018,9
-Columbia University,2019,1
 Columbus Research Foundation,2009,1
 "Combined Military Hospital, Pakistan",2008,1
 Combioxin SA,2016,1
@@ -7362,7 +7324,6 @@ Complen Health GmbH,2009,1
 Composite Interceptive Med Science,2016,3
 Composite Interceptive Med Science,2017,2
 Composite Interceptive Med Science,2018,3
-Composite Interceptive Med Science,2019,1
 Comprehensive EyeCare of Central Ohio,2017,1
 Comprehensive Support Project for Oncology Research,2015,1
 Compugen Ltd,2018,1
@@ -7403,7 +7364,6 @@ Concordia Laboratories Inc.,2017,1
 "Concordia Pharmaceuticals Inc., Barbados",2011,1
 "Concordia Pharmaceuticals, Inc",2007,1
 Concure Oncology-Breast Microseed Inc.,2016,1
-"Conde, Bebiana, M.D.",2019,1
 "ConforMIS, Inc.",2010,1
 "ConforMIS, Inc.",2012,3
 "ConforMIS, Inc.",2013,6
@@ -7517,7 +7477,6 @@ Cooperative University of Colombia,2017,1
 "Coopervision, Inc.",2016,14
 "Coopervision, Inc.",2017,6
 "Coopervision, Inc.",2018,5
-"Coopervision, Inc.",2019,2
 "Coordinación de Investigación en Salud, Mexico",2017,1
 "Coordination Pharmaceuticals, Inc.",2018,1
 Copenhagen Academy for Medical Education and Simulation,2016,1
@@ -7533,7 +7492,6 @@ CorAssist Cadiovascular Ltd.,2008,1
 CorAssist Cadiovascular Ltd.,2013,1
 CorAssist Cadiovascular Ltd.,2015,1
 "CorMatrix Cardiovascular, Inc.",2014,1
-"CorMatrix Cardiovascular, Inc.",2019,1
 CorMedix,2010,1
 CorMedix,2012,1
 CorMedix,2015,1
@@ -7606,7 +7564,6 @@ Corixa Corporation,2000,1
 Corixa Corporation,2003,1
 Corixa Corporation,2004,1
 Cork University Hospital,2017,1
-Corline Biomedical AB,2019,1
 Cornea Consultants Of Nashville,2013,1
 Cornea Research Foundation of America,2006,1
 Cornell University,2013,1
@@ -8067,7 +8024,6 @@ DEKA S.r.l.,2018,1
 "DEKK-TEC, Inc.",2010,2
 "DEKK-TEC, Inc.",2013,1
 "DEKK-TEC, Inc.",2016,1
-"DEKK-TEC, Inc.",2019,1
 "DFB Soria, LLC",2016,1
 "DFB Soria, LLC",2017,2
 DFINE Inc.,2011,2
@@ -8113,7 +8069,6 @@ DSM Food Specialties,2014,2
 "DSM Nutritional Products, Inc.",2015,3
 "DSM Nutritional Products, Inc.",2016,4
 "DSM Nutritional Products, Inc.",2018,2
-DTAMedical SAS,2019,1
 "DUSA Pharmaceuticals, Inc.",2007,1
 "DUSA Pharmaceuticals, Inc.",2009,1
 "DUSA Pharmaceuticals, Inc.",2011,2
@@ -8177,7 +8132,7 @@ Daiichi Sankyo Brasil Farmacêutica LTDA,2015,1
 "Daiichi Sankyo Hong Kong Ltd., a Daiichi Sankyo Company",2017,1
 "Daiichi Sankyo Korea Co., Ltd., a Daiichi Sankyo Company",2013,1
 "Daiichi Sankyo Taiwan Ltd., a Daiichi Sankyo Company",2018,2
-"Daiichi Sankyo, Inc.",1999,7
+"Daiichi Sankyo, Inc.",1999,7.001
 "Daiichi Sankyo, Inc.",2000,3
 "Daiichi Sankyo, Inc.",2001,3
 "Daiichi Sankyo, Inc.",2002,7
@@ -9143,7 +9098,6 @@ ECRI bv,2015,1
 ECRI bv,2016,3
 ECRI bv,2017,1
 ECRI bv,2018,1
-ECS-Progastrin SA,2019,1
 EDAP TMS S.A.,2006,1
 EDAP TMS S.A.,2011,1
 EDAP TMS S.A.,2015,1
@@ -9201,7 +9155,6 @@ EMS,2015,1
 EMS,2016,7
 EMS,2017,2
 EMS,2018,6
-EMS,2019,1
 "ENT and Allergy Associates, LLP",2015,1
 "ENTrigue Surgical, Inc.",2008,1
 "ENTrigue Surgical, Inc.",2009,2
@@ -9525,7 +9478,7 @@ Eli Lilly and Company,2006,76
 Eli Lilly and Company,2007,80
 Eli Lilly and Company,2008,85
 Eli Lilly and Company,2009,87
-Eli Lilly and Company,2010,116
+Eli Lilly and Company,2010,116.001
 Eli Lilly and Company,2011,108
 Eli Lilly and Company,2012,87
 Eli Lilly and Company,2013,93
@@ -10113,7 +10066,6 @@ European Organisation for Research and Treatment of Cancer - EORTC,2015,1
 European Organisation for Research and Treatment of Cancer - EORTC,2016,1
 European Organisation for Research and Treatment of Cancer - EORTC,2017,4
 European Organisation for Research and Treatment of Cancer - EORTC,2018,4
-European Organisation for Research and Treatment of Cancer - EORTC,2019,1
 European Thoracic Oncology Platform,2012,1
 European Thoracic Oncology Platform,2014,1
 European Thoracic Oncology Platform,2015,1
@@ -10690,7 +10642,6 @@ Forest Laboratories,2018,2
 "Forma Therapeutics, Inc.",2016,1
 "Forma Therapeutics, Inc.",2018,2
 Formation Biologics,2017,1
-Formation Biologics,2019,1
 Forschungsinstitut der Diabetes Akademie Mergentheim,2012,1
 Forschungsinstitut der Diabetes Akademie Mergentheim,2015,1
 Forsight Vision4,2010,1
@@ -11731,7 +11682,7 @@ GlaxoSmithKline,2007,299
 GlaxoSmithKline,2008,245
 GlaxoSmithKline,2009,302
 GlaxoSmithKline,2010,278
-GlaxoSmithKline,2011,213
+GlaxoSmithKline,2011,213.001
 GlaxoSmithKline,2012,181
 GlaxoSmithKline,2013,175
 GlaxoSmithKline,2014,145
@@ -11836,7 +11787,6 @@ Glycotope GmbH,2011,3
 Glycotope GmbH,2013,2
 Glycotope GmbH,2014,1
 Glycotope GmbH,2017,1
-Go Medical Industries Pty Ltd,2019,1
 Gobiquity Mobile Health,2016,1
 Gobiquity Mobile Health,2018,1
 "Gold, Herman K., MD",2004,1
@@ -11964,7 +11914,6 @@ Grifols Therapeutics LLC,2016,6
 Grifols Therapeutics LLC,2017,1
 Grifols Therapeutics LLC,2018,2
 "Gritstone Oncology, Inc.",2018,1
-"Gritstone Oncology, Inc.",2019,1
 Groene Hart Ziekenhuis,2015,1
 Group Health Centre,2003,1
 Group Health Centre,2004,1
@@ -12523,7 +12472,6 @@ Healeon Medical Inc,2018,2
 "Healingstone Co., Ltd.",2008,1
 Healios Inc.,2018,1
 Healios K.K.,2017,1
-Healios K.K.,2019,1
 Health Beacons,2012,1
 Health Clinics Limited,2017,1
 "Health Diagnostic Laboratory, Inc.",2011,2
@@ -12742,7 +12690,6 @@ Henan Cancer Hospital,2016,2
 Henan Cancer Hospital,2017,10
 Henan Cancer Hospital,2018,3
 Henan Provincial Hospital,2011,1
-Henan Provincial Hospital,2019,1
 Henan University of Traditional Chinese Medicine,2018,1
 "Hengrui Therapeutics, Inc.",2015,1
 "Hengrui Therapeutics, Inc.",2017,1
@@ -12810,7 +12757,6 @@ Herlev Hospital,2005,1
 Herlev Hospital,2007,1
 Herlev Hospital,2010,1
 Herlev Hospital,2016,2
-Herlev Hospital,2019,1
 Herlev and Gentofte Hospital,2017,1
 Hermann Eye Center,2003,1
 Hermann Eye Center,2006,1
@@ -13144,7 +13090,6 @@ Hua Medicine Limited,2013,1
 Hua Medicine Limited,2014,1
 Hua Medicine Limited,2015,3
 Hua Medicine Limited,2017,3
-Hua Medicine Limited,2019,2
 "Huabo Biopharm Co., Ltd.",2018,2
 Huai'an First People's Hospital,2015,1
 Huai'an No.1 People's Hospital,2016,1
@@ -13156,7 +13101,6 @@ Hualan Biological Bacterin Co. Ltd.,2015,1
 Huashan Hospital,2008,1
 Huashan Hospital,2011,1
 Huazhong University of Science and Technology,2010,1
-Huazhong University of Science and Technology,2019,1
 "Hubei Biological Medicine Industrial Technology Institute Co., Ltd.",2015,1
 Hugel,2008,1
 Hugel,2011,1
@@ -13282,7 +13226,6 @@ Hyundai Pharm,2017,1
 Hôpital Edouard Herriot,2011,1
 Hôpital Edouard Herriot,2017,1
 Hôpital Necker-Enfants Malades,2005,1
-I-Mab Biopharma Co. Ltd.,2019,1
 I-Mab Biopharma HongKong Limited,2017,1
 I.C. Van Gelder,2009,1
 IASO Pharma Inc.,2010,1
@@ -13723,7 +13666,6 @@ Imperial College London,2015,5
 Imperial College London,2016,4
 Imperial College London,2017,3
 Imperial College London,2018,4
-Imperial College London,2019,1
 Imperial Tobacco Group PLC,2013,2
 Impeto Medical,2014,1
 Implandata Ophthalmic Products GmbH,2014,1
@@ -13809,7 +13751,6 @@ InSource Diagnostics,2015,1
 "InVasc Therapeutics, Inc.",2011,1
 InVivo Therapeutics,2014,1
 InVivo Therapeutics,2017,1
-InVivo Therapeutics,2019,1
 Inamed,2005,1
 Inari Medical,2016,1
 Inari Medical,2018,2
@@ -13866,7 +13807,6 @@ Indiana University School of Medicine,2007,4
 Indiana University School of Medicine,2009,2
 Indiana University School of Medicine,2011,1
 Indiana University School of Medicine,2013,2
-Indigo Therapeutics,2019,1
 Indivior Inc.,2005,3
 Indivior Inc.,2006,1
 Indivior Inc.,2007,4
@@ -14055,7 +13995,6 @@ Innovative Trauma Care Inc.,2013,1
 Innovent Biologics (Suzhou) Co. Ltd.,2016,6
 Innovent Biologics (Suzhou) Co. Ltd.,2017,6
 Innovent Biologics (Suzhou) Co. Ltd.,2018,7
-Innovent Biologics (Suzhou) Co. Ltd.,2019,1
 Innoventus Project AB,2008,1
 Innovis LLC,2015,1
 Innovive Pharmaceuticals,2005,1
@@ -14155,7 +14094,6 @@ Institut Paoli-Calmettes,2014,1
 Institut Paoli-Calmettes,2016,1
 Institut Paoli-Calmettes,2017,3
 Institut Paoli-Calmettes,2018,2
-Institut Paoli-Calmettes,2019,1
 Institut Pasteur,2005,1
 Institut Pasteur,2010,2
 Institut Pasteur,2012,4
@@ -14181,7 +14119,6 @@ Institut Straumann AG,2014,1
 Institut Straumann AG,2015,1
 Institut Straumann AG,2016,3
 Institut Straumann AG,2018,1
-Institut Straumann AG,2019,1
 Institut d'Investigació Biomèdica de Bellvitge,2015,1
 Institut de Cancérologie de la Loire,2010,1
 Institut de Médecine et d'Epidémiologie Appliquée - Fondation Internationale Léon M'Ba,2005,1
@@ -14451,7 +14388,6 @@ International Antiviral Therapy Evaluation Center,2004,2
 International Antiviral Therapy Evaluation Center,2006,2
 International Biomedical Systems S.p.A.,2008,3
 International Biophysics Corporation,2018,2
-International Breast Cancer Study Group,2019,1
 "International Cancer Research Group, United Arab Emirates",2018,1
 "International Centre for Diarrhoeal Disease Research, Bangladesh",2001,1
 "International Centre for Diarrhoeal Disease Research, Bangladesh",2002,1
@@ -14780,7 +14716,6 @@ JADO Technologies GmbH,2007,1
 "JC Medical, Inc.",2014,1
 "JCR Pharmaceuticals Co., Ltd.",2017,1
 "JCR Pharmaceuticals Co., Ltd.",2018,2
-"JCR Pharmaceuticals Co., Ltd.",2019,1
 JDC Tech,2008,1
 "JDP Therapeutics, Inc.",2011,2
 "JDP Therapeutics, Inc.",2013,1
@@ -15257,7 +15192,6 @@ Jiangsu Cancer Institute & Hospital,2017,1
 "Jiangsu HengRui Medicine Co., Ltd.",2016,26
 "Jiangsu HengRui Medicine Co., Ltd.",2017,23
 "Jiangsu HengRui Medicine Co., Ltd.",2018,33
-"Jiangsu HengRui Medicine Co., Ltd.",2019,3
 "Jiangsu Kanion Pharmaceutical Co., Ltd",2010,1
 "Jiangsu Kanion Pharmaceutical Co., Ltd",2012,1
 "Jiangsu Kanion Pharmaceutical Co., Ltd",2013,2
@@ -16036,7 +15970,6 @@ King Faisal Specialist Hospital & Research Center,2017,1
 King Saud University,2013,1
 King's College Hospital NHS Trust,2010,1
 King's College Hospital NHS Trust,2014,1
-King's College Hospital NHS Trust,2019,1
 King's College London,2000,1
 King's College London,2007,1
 King's College London,2008,1
@@ -16399,7 +16332,6 @@ LEO Pharma,2015,23
 LEO Pharma,2016,14
 LEO Pharma,2017,10
 LEO Pharma,2018,14
-LEO Pharma,2019,1
 "LFB USA, Inc.",2015,1
 "LFB USA, Inc.",2016,1
 LG Chem,2017,7
@@ -16535,7 +16467,6 @@ Laboratoires URGO,2017,2
 Laboratoires URGO,2018,2
 Laboratoires Vivacy,2013,1
 Laboratori Guidotti S.p.A.,2016,1
-Laboratori di Informatica Applicata,2019,1
 "Laboratories Leon Farma, S.A.",2014,1
 Laboratorio Elea S.A.C.I.F. y A.,2009,1
 Laboratorio Elea S.A.C.I.F. y A.,2010,1
@@ -16773,7 +16704,6 @@ Leiden University Medical Center,2015,4
 Leiden University Medical Center,2016,1
 Leiden University Medical Center,2017,3
 Leiden University Medical Center,2018,5
-Leiden University Medical Center,2019,1
 "Leigh Eck, MD",2009,1
 Lelo Inc.,2015,1
 LenSx Lasers Inc.,2008,1
@@ -16846,7 +16776,6 @@ Lexicon Pharmaceuticals,2017,3
 "Lexington International, LLC",2010,1
 Li Peng,2016,1
 "Li-Cor, Inc.",2017,1
-LiNA Medical,2019,1
 "LiNanlin,Ph.D, Chief Physician,Clinical Professor",2012,1
 Liangzhou Wei,2014,1
 Lianne Urada,2013,1
@@ -16935,7 +16864,6 @@ Lille Catholic University,2011,1
 Lille Catholic University,2012,1
 Lille Catholic University,2016,1
 Lille Catholic University,2017,1
-Lille Catholic University,2019,1
 LimFlow SA,2017,1
 "LimFlow, Inc.",2017,1
 Limacorporate S.p.a,2008,1
@@ -17310,7 +17238,7 @@ M. Louise Markert,2006,2
 M. Meine,2013,1
 M.A. Med Alliance S.A.,2016,1
 M.B.A. van Doorn,2017,1
-M.D. Anderson Cancer Center,1999,6
+M.D. Anderson Cancer Center,1999,6.001
 M.D. Anderson Cancer Center,2000,7
 M.D. Anderson Cancer Center,2001,15
 M.D. Anderson Cancer Center,2002,16
@@ -17330,7 +17258,6 @@ M.D. Anderson Cancer Center,2015,54
 M.D. Anderson Cancer Center,2016,44
 M.D. Anderson Cancer Center,2017,67
 M.D. Anderson Cancer Center,2018,39
-M.D. Anderson Cancer Center,2019,3
 M.D. Lederman Consulting Ltd,2013,1
 M.H.H. Kramer,2016,1
 M.M.A Tech Ltd.,2017,1
@@ -17441,7 +17368,6 @@ Maastricht Radiation Oncology,2007,1
 Maastricht Radiation Oncology,2011,1
 Maastricht Radiation Oncology,2015,1
 Maastricht University,2002,1
-Maastricht University,2019,1
 Maastricht University Medical Center,2000,1
 Maastricht University Medical Center,2003,2
 Maastricht University Medical Center,2004,3
@@ -17942,7 +17868,6 @@ McMaster University,2015,4
 McMaster University,2016,1
 McMaster University,2017,1
 McMaster University,2018,10
-McMaster University,2019,1
 McNeel Eye Center,2016,1
 McNeil AB,1999,1
 McNeil AB,2005,6
@@ -18043,7 +17968,6 @@ MedReleaf,2018,1
 MedRelief,2006,1
 MedSIR,2015,1
 MedSIR,2016,3
-MedSIR,2019,1
 "MedShape, Inc",2017,1
 "MedShape, Inc",2018,1
 MedSource Polska,2011,1
@@ -18173,7 +18097,6 @@ Medical Enterprises Europe B.V.,2002,1
 Medical Enterprises Europe B.V.,2016,1
 Medical Entomology Centre,1999,1
 Medical Entomology Centre,2006,1
-"Medical Metrics Diagnostics, Inc",2019,1
 Medical Park AG,2015,1
 Medical Park Gaziantep Hospital,2003,1
 Medical Park Gaziantep Hospital,2008,1
@@ -18324,7 +18247,6 @@ Medinol Ltd.,2013,1
 Medinol Ltd.,2014,2
 Medinol Ltd.,2016,3
 Medinol Ltd.,2018,1
-Medinol Ltd.,2019,1
 Medinova AG,2007,1
 Medinova AG,2011,1
 Medinova AG,2014,1
@@ -18957,7 +18879,6 @@ MetroHealth Medical Center,2012,1
 Metronom Health,2018,1
 Metronome Therapeutics,2008,1
 Metropolis Medical,2010,1
-Metropolitan Eye Research & Surgery Institute,2019,1
 Mexican Agrupation for Hematology Study,2016,1
 Mexican National Institute of Public Health,2009,1
 Mexican Red Cross,2017,1
@@ -18997,7 +18918,6 @@ Michael Choi,2018,1
 Michael Cohen-Wolkowiez,2011,1
 Michael Cohen-Wolkowiez,2013,1
 Michael Debakey Veterans Affairs Medical Center,2008,1
-"Michael E Villarreal, MD",2019,1
 "Michael Henry, MD",2007,1
 Michael Hoelscher,2010,1
 Michael Hoelscher,2013,1
@@ -19021,7 +18941,6 @@ Michael Prados,2007,1
 Michael Rafii,2013,1
 Michael Roth,2009,1
 Michael Roth,2017,1
-Michael Sangmin Lee,2019,1
 "Michael Schiff, MD",2010,1
 "Michael Vogelbaum, MD, PhD",2014,1
 "Michael Vogelbaum, MD, PhD",2015,1
@@ -19173,7 +19092,6 @@ Milton S. Hershey Medical Center,2011,1
 Milton S. Hershey Medical Center,2013,4
 Milton S. Hershey Medical Center,2016,1
 Milton S. Hershey Medical Center,2018,2
-Milton S. Hershey Medical Center,2019,1
 Mimetica Pty Limited,2010,1
 Mimetica Pty Limited,2014,1
 Mimetica Pty Limited,2015,1
@@ -19395,7 +19313,6 @@ Molnlycke Health Care AB,2015,1
 Molnlycke Health Care AB,2016,3
 Molnlycke Health Care AB,2017,2
 Molnlycke Health Care AB,2018,2
-Molnlycke Health Care AB,2019,1
 Mologen AG,2010,2
 Mologen AG,2013,1
 Mologen AG,2014,2
@@ -19461,7 +19378,6 @@ Montreal Heart Institute,2009,2
 Montreal Heart Institute,2012,1
 Montreal Heart Institute,2015,3
 Montreal Heart Institute,2018,2
-Montreal Heart Institute,2019,1
 Mood Disorders Center of Ottawa,2004,1
 Moorfields Eye Hospital NHS Foundation Trust,2008,1
 Moorfields Eye Hospital NHS Foundation Trust,2009,1
@@ -19722,7 +19638,6 @@ NCIC Clinical Trials Group,2013,2
 "NDO Surgical, Inc.",2004,2
 "NDO Surgical, Inc.",2005,1
 "NDO Surgical, Inc.",2006,1
-NEAT ID Foundation,2019,1
 "NEMA Research, Inc.",2006,4
 "NEMA Research, Inc.",2007,1
 "NEMA Research, Inc.",2008,1
@@ -19806,7 +19721,6 @@ Nabi Biopharmaceuticals,2008,1
 Nabi Biopharmaceuticals,2009,1
 Nabi Biopharmaceuticals,2010,2
 Nabi Biopharmaceuticals,2011,2
-Nabil Adra,2019,1
 Nabiqasim Industries (Pvt) Ltd,2015,1
 Nabriva Therapeutics AG,2010,1
 Nabriva Therapeutics AG,2015,2
@@ -19822,7 +19736,6 @@ Nagoya City University,2014,2
 Naiyer Rizvi,2016,1
 "Naked Biome, Inc.",2018,1
 "NanOlogy, LLC",2017,4
-"NanOlogy, LLC",2019,1
 "Nancy Lin, MD",2007,3
 "Nancy Lin, MD",2018,1
 Nanfang Hospital of Southern Medical University,2009,1
@@ -19858,7 +19771,6 @@ NanoBio Corporation,2012,1
 "NanoCarrier Co., Ltd.",2013,1
 "NanoCarrier Co., Ltd.",2014,1
 "NanoCarrier Co., Ltd.",2017,2
-"NanoFUSE Biologics, LLC",2019,1
 NanoPass Technologies Ltd,2007,2
 NanoPass Technologies Ltd,2008,1
 NanoSHIFT LLC,2009,2
@@ -19928,7 +19840,6 @@ Nasaleze International Ltd,2013,1
 "Nasser Hanna, M.D.",2007,1
 "Nasser Hanna, M.D.",2015,1
 "Nasser Hanna, M.D.",2016,1
-"Nassir F. Marrouche, MD",2019,1
 "Nastech Pharmaceutical Company, Inc.",2007,1
 "Nastech Pharmaceutical Company, Inc.",2008,2
 NatImmune A/S,2008,1
@@ -20164,7 +20075,6 @@ Nature's One,2018,1
 Nature's Way Canada,2017,1
 NatureGen,2005,1
 NatureWise Biotech & Medicals Corporation,2018,1
-NatureWise Biotech & Medicals Corporation,2019,1
 Naturex SA,2018,2
 Naturex-Dbs,2016,1
 "Naurex, Inc, an affiliate of Allergan plc",2009,1
@@ -20192,7 +20102,6 @@ Navipharm Corporation,2013,2
 Navipharm Corporation,2014,3
 Navipharm Corporation,2017,2
 Navipharm Corporation,2018,1
-Navipharm Corporation,2019,1
 Naviscan PET Systems,2006,1
 Naviscan PET Systems,2008,1
 Navitas Pharma,2016,1
@@ -20219,7 +20128,6 @@ Nektar Therapeutics,2015,3
 Nektar Therapeutics,2016,2
 Nektar Therapeutics,2017,1
 Nektar Therapeutics,2018,4
-"Nellie Medical, LLC",2019,1
 Nemera La Verpilliere,2016,1
 Nemours Children's Clinic,2001,2
 Nemours Children's Clinic,2004,1
@@ -20326,7 +20234,6 @@ Nestlé,2015,19
 Nestlé,2016,17
 Nestlé,2017,19
 Nestlé,2018,21
-Nestlé,2019,1
 Netherlands Heart Foundation,2001,1
 Netherlands Institute for Pigment Disorders,2015,1
 Netherlands Working Group on Immunotherapy of Oncology,2014,1
@@ -20404,7 +20311,6 @@ NeuroPace,2005,1
 NeuroPace,2006,1
 NeuroPace,2015,1
 "NeuroRx, Inc.",2018,1
-"NeuroRx, Inc.",2019,3
 NeuroSearch A/S,2003,1
 NeuroSearch A/S,2006,1
 NeuroSearch A/S,2007,2
@@ -20559,7 +20465,6 @@ New York Head & Neck Institute,2009,1
 New York Medical College,2007,1
 New York Medical College,2012,1
 New York Medical College,2015,1
-New York Medical College,2019,1
 "New York Neurosurgery & Neuroscience Associates, PLLC",2006,1
 New York Presbyterian Hospital,2005,1
 New York Presbyterian Hospital,2012,1
@@ -20944,7 +20849,6 @@ Northern California Retina Vitreous Associates,2014,1
 "Northern Orthopaedic Division, Denmark",2004,1
 "Northern Orthopaedic Division, Denmark",2013,1
 Northern State Medical University,2004,1
-Northern Sydney Anaesthesia Research Institute,2019,1
 Northern Sydney and Central Coast Area Health Service,2009,1
 Northern Therapeutics,2006,1
 Northern Therapeutics,2017,1
@@ -20976,7 +20880,6 @@ Northwell Health,2015,4
 Northwell Health,2016,3
 Northwell Health,2017,3
 Northwell Health,2018,3
-Northwell Health,2019,1
 Northwest Biotherapeutics,2006,1
 Northwest Biotherapeutics,2013,1
 Northwest Biotherapeutics,2018,1
@@ -21186,7 +21089,6 @@ Novexel Inc,2007,1
 Novexel Inc,2009,1
 Novian Health Inc.,2008,1
 Novian Health Inc.,2012,1
-Novian Health Inc.,2019,1
 "Novira Therapeutics, Inc.",2014,1
 "Novita Pharmaceuticals, Inc.",2017,1
 Novo Cellular Medicine Institute LLP,2015,2
@@ -21306,14 +21208,12 @@ Nutrinia,2017,1
 "Nutrition 21, Inc.",2011,1
 "Nutrition Institute, Slovenia",2015,1
 "Nutrition Institute, Slovenia",2017,1
-"Nutrition Institute, Slovenia",2019,2
 Nutrition Science Partners Limited,2018,1
 NuvOx Pharma Pty Ltd,2014,1
 "Nuvaira, Inc.",2011,1
 "Nuvaira, Inc.",2012,1
 "Nuvaira, Inc.",2014,1
 "Nuvaira, Inc.",2017,2
-"Nuvaira, Inc.",2019,1
 Nuvectra,2015,1
 Nuvectra,2018,1
 Nuvo Research GmbH,2010,1
@@ -21339,7 +21239,6 @@ Nymox Corporation,2012,1
 Nymox Corporation,2013,1
 Nyxoah S.A.,2014,1
 Nyxoah S.A.,2017,1
-Nyxoah S.A.,2019,1
 "Núcleo de Estudos em Esportes e Ortopedia, Brazil",2008,1
 O & O Alpan LLC,2009,1
 "O'Brien, Jeana D., MD, FACP, FCCP",2004,1
@@ -21476,7 +21375,6 @@ Octapharma,2015,6
 Octapharma,2016,3
 Octapharma,2017,7
 Octapharma,2018,5
-Octapharma,2019,1
 Octimet Oncology N.V.,2017,1
 "OcuCure Therapeutics, Inc.",2013,1
 "OcuCure Therapeutics, Inc.",2014,1
@@ -21540,7 +21438,6 @@ Ohio State University,2015,2
 Ohio State University,2016,2
 Ohio State University,2017,4
 Ohio State University,2018,4
-Ohio State University,2019,1
 Ohio State University Comprehensive Cancer Center,2000,1
 Ohio State University Comprehensive Cancer Center,2001,2
 Ohio State University Comprehensive Cancer Center,2002,1
@@ -22152,7 +22049,6 @@ Oslo University Hospital,2015,1
 Oslo University Hospital,2016,6
 Oslo University Hospital,2017,4
 Oslo University Hospital,2018,7
-Oslo University Hospital,2019,1
 Oslo and Akershus University College of Applied Sciences,2012,1
 Oslo and Akershus University College of Applied Sciences,2015,1
 Oslo and Akershus University College of Applied Sciences,2016,1
@@ -22250,7 +22146,6 @@ Otsuka Pakistan Limited,2010,1
 "Otsuka Pharmaceutical Co., Ltd.",2016,3
 "Otsuka Pharmaceutical Co., Ltd.",2017,8
 "Otsuka Pharmaceutical Co., Ltd.",2018,6
-"Otsuka Pharmaceutical Co., Ltd.",2019,1
 "Otsuka Pharmaceutical Development & Commercialization, Inc.",2000,5
 "Otsuka Pharmaceutical Development & Commercialization, Inc.",2002,7
 "Otsuka Pharmaceutical Development & Commercialization, Inc.",2003,9
@@ -22570,7 +22465,6 @@ Palatin Technologies,2015,1
 Palau Pharma S.A.,2008,1
 Palau Pharma S.A.,2010,1
 Palladio Biosciences,2018,1
-Palladio Biosciences,2019,1
 Palle Bekker Jeppesen,2013,1
 Palleos Healthcare GmbH,2017,2
 Palmaz Scientific,2013,1
@@ -22634,7 +22528,6 @@ Papworth Hospital NHS Foundation Trust,2013,1
 Papworth Hospital NHS Foundation Trust,2015,1
 Papworth Hospital NHS Foundation Trust,2016,1
 Papworth Hospital NHS Foundation Trust,2018,1
-Papworth Hospital NHS Foundation Trust,2019,1
 "Par Pharmaceutical, Inc.",1999,5
 "Par Pharmaceutical, Inc.",2000,1
 "Par Pharmaceutical, Inc.",2001,4
@@ -22991,15 +22884,15 @@ Pevion Biotech Ltd,2010,1
 "Pfenex, Inc",2015,3
 "Pfenex, Inc",2016,1
 Pfizer,1999,19
-Pfizer,2000,12
-Pfizer,2001,28
+Pfizer,2000,12.001
+Pfizer,2001,28.002
 Pfizer,2002,77
 Pfizer,2003,129
 Pfizer,2004,115
 Pfizer,2005,140
 Pfizer,2006,168
 Pfizer,2007,210
-Pfizer,2008,245
+Pfizer,2008,245.001
 Pfizer,2009,285
 Pfizer,2010,275
 Pfizer,2011,213
@@ -23010,7 +22903,6 @@ Pfizer,2015,107
 Pfizer,2016,91
 Pfizer,2017,74
 Pfizer,2018,80
-Pfizer,2019,1
 Pfm Medical Mepro Gmbh,2013,1
 Phafag AG,2011,1
 "Phage Pharmaceuticals, Inc.",2004,1
@@ -23266,7 +23158,6 @@ Philogen S.p.A.,2013,4
 Philogen S.p.A.,2014,1
 Philogen S.p.A.,2016,3
 Philogen S.p.A.,2018,2
-Philogen S.p.A.,2019,1
 Philozon Geradores de Ozonio LTDA,2012,1
 "Phoenix Biotechnology, Inc",2015,1
 "Phoenix Cardiac Devices, Inc.",2016,1
@@ -23432,7 +23323,6 @@ Pixium Vision SA,2016,1
 Pixium Vision SA,2017,1
 Pixium Vision SA,2018,1
 Placon Therapeutics,2016,1
-"Planexta, Inc",2019,1
 Planmed Oy,2008,1
 Planned Parenthood Federation of America,2011,1
 Planned Parenthood Federation of America,2015,1
@@ -23467,7 +23357,6 @@ Pluristem Ltd.,2009,2
 Pluristem Ltd.,2012,2
 Pluristem Ltd.,2017,2
 Pluristem Ltd.,2018,1
-Pluristem Ltd.,2019,1
 "PluroGen Therapeutics, Inc",2013,2
 "Pluromed, Inc.",2008,2
 "PneumRx, Inc.",2008,1
@@ -23498,7 +23387,6 @@ Poitiers University Hospital,2001,1
 Poitiers University Hospital,2002,2
 Poitiers University Hospital,2003,1
 Poitiers University Hospital,2017,3
-Poitiers University Hospital,2019,1
 Polarean Imaging Ltd.,2018,2
 Polaris Group,2011,3
 Polaris Group,2012,2
@@ -24095,7 +23983,6 @@ Pulmonx International Sàrl,2014,1
 "Pulmotect, Inc.",2014,1
 "Pulmotect, Inc.",2015,1
 "Pulmotect, Inc.",2018,1
-"Pulmotect, Inc.",2019,1
 Pulsar Vascular,2014,1
 Pulsar Vascular,2015,1
 Pulsar Vascular,2018,1
@@ -24247,7 +24134,6 @@ Quantum Genomics SA,2012,2
 Quantum Genomics SA,2015,1
 Quantum Genomics SA,2016,1
 Quantum Genomics SA,2017,1
-Quantum Genomics SA,2019,2
 Quantum Imaging Limited,2015,1
 Quark Pharmaceuticals,2007,2
 Quark Pharmaceuticals,2008,3
@@ -24372,7 +24258,6 @@ RESCUe - RESeau Cardiologie Urgence / RESUVal - RESeau des Urgences de la vallé
 RHEACELL GmbH & Co. KG,2016,1
 RHEACELL GmbH & Co. KG,2017,2
 RHEACELL GmbH & Co. KG,2018,1
-RLS Global,2019,1
 "RMJ Holdings, LLC",2016,1
 "RMT Medical Technologies, Ltd.",2003,1
 "ROX Medical, Inc.",2008,1
@@ -24386,7 +24271,6 @@ RS Medical,2008,1
 RSP Systems A/S,2015,1
 RSP Systems A/S,2017,2
 RSP Systems A/S,2018,4
-RSP Systems A/S,2019,1
 RSPR Pharma AB,2012,1
 RSPR Pharma AB,2014,1
 RSPR Pharma AB,2015,2
@@ -24429,7 +24313,6 @@ Rabin Medical Center,2015,3
 Rabin Medical Center,2016,6
 Rabin Medical Center,2017,1
 Rabin Medical Center,2018,1
-Rabin Medical Center,2019,1
 Rachiotek LLC,2011,1
 Radboud University,2001,1
 Radboud University,2002,1
@@ -24492,7 +24375,6 @@ Rainbow Medical,2013,1
 Rainbow Medical,2016,1
 Rainbow Medical,2017,1
 Rainbow Medical,2018,1
-Rainbow Medical,2019,1
 Rainer Oberbauer,2017,1
 Rainier Therapeutics,2015,1
 Rainier Therapeutics,2017,1
@@ -24502,7 +24384,6 @@ Raisio Group,2013,1
 Raisio Group,2014,1
 Raisio Group,2016,1
 "Raj K. Maturi, MD",2014,1
-Raj Shekhar,2019,1
 Rajan Saggar,2006,1
 Rajan Saggar,2007,1
 Rajan Saggar,2008,1
@@ -24677,7 +24558,6 @@ Red de Terapia Celular,2012,3
 Red de Terapia Celular,2013,4
 Red de Terapia Celular,2014,2
 Red de Terapia Celular,2015,2
-Red de Terapia Celular,2019,1
 RedDress Ltd.,2014,1
 RedHill Biopharma Limited,2011,1
 RedHill Biopharma Limited,2013,3
@@ -24739,7 +24619,6 @@ Regeneron Pharmaceuticals,2018,21
 "Regenexx, LLC",2015,2
 "Regenexx, LLC",2016,2
 "Regenexx, LLC",2018,2
-"Regenexx, LLC",2019,1
 "Regenstrief Institute, Inc.",2014,1
 "Regenstrief Institute, Inc.",2015,2
 "Regenstrief Institute, Inc.",2018,1
@@ -24763,7 +24642,6 @@ Region Skane,2015,2
 Region Skane,2016,1
 Region Skane,2017,2
 Region Skane,2018,2
-Region Skane,2019,1
 Region Örebro County,2009,2
 Regional Health Authority of Sterea & Thessaly,2011,2
 Regione Lombardia,2008,1
@@ -25167,7 +25045,6 @@ River Vision Development Corporation,2014,1
 Rna Diagnostics Inc.,2018,1
 Rob Gruters,2017,1
 Robert Cornell,2014,1
-Robert E. Pyke,2019,1
 Robert Ferris,2007,1
 Robert Ferris,2011,1
 Robert Ferris,2016,1
@@ -25504,7 +25381,6 @@ SIFI SpA,2013,1
 SIFI SpA,2014,1
 SIFI SpA,2015,1
 SIFI SpA,2017,2
-SIFI SpA,2019,1
 SIGA Technologies,2007,1
 SIGA Technologies,2008,1
 SIGA Technologies,2009,1
@@ -25604,14 +25480,12 @@ Sackner Wellness Products LLC,2018,2
 Sadick Research Group,2013,1
 Saegis Pharmaceuticals,2004,1
 Safeheal,2017,1
-SafelyYou,2019,1
 "Safi Shahda, M.D.",2015,1
 Sage Therapeutics,2014,3
 Sage Therapeutics,2015,2
 Sage Therapeutics,2016,6
 Sage Therapeutics,2017,1
 Sage Therapeutics,2018,6
-Sage Therapeutics,2019,1
 Sahajanand Medical Technologies Pvt. Ltd.,2006,2
 Sahajanand Medical Technologies Pvt. Ltd.,2008,2
 Sahajanand Medical Technologies Pvt. Ltd.,2009,1
@@ -25661,7 +25535,6 @@ Salvat,2012,1
 Salvat,2013,1
 Salvat,2015,1
 Salvat,2017,1
-Salvat,2019,1
 "SamA Pharmaceutical Co., Ltd",2010,1
 "SamA Pharmaceutical Co., Ltd",2012,1
 "SamA Pharmaceutical Co., Ltd",2018,1
@@ -25822,7 +25695,6 @@ Sanofi,2015,43
 Sanofi,2016,33
 Sanofi,2017,40
 Sanofi,2018,40
-Sanofi,2019,1
 "Sanofi Pasteur, a Sanofi Company",1999,1
 "Sanofi Pasteur, a Sanofi Company",2002,2
 "Sanofi Pasteur, a Sanofi Company",2003,6
@@ -26120,7 +25992,6 @@ Seattle Institute for Cardiac Research,2009,1
 "Sebacia, Inc.",2014,1
 "Sebacia, Inc.",2016,1
 "Sebacia, Inc.",2017,1
-"Sebacia, Inc.",2019,1
 Sebela Pharmaceuticals Development LLC,2017,1
 Sebela Pharmaceuticals Inc.,2013,1
 Sebela Pharmaceuticals Inc.,2015,1
@@ -26130,11 +26001,9 @@ Seca GmbH & Co. Kg.,2011,3
 Seca GmbH & Co. Kg.,2012,1
 Seca GmbH & Co. Kg.,2015,1
 Second Affiliated Hospital of Soochow University,2015,1
-Second Affiliated Hospital of Soochow University,2019,1
 Second Affiliated Hospital of Xi'an Jiaotong University,2018,3
 "Second Affiliated Hospital, School of Medicine, Zhejiang University",2017,2
 "Second Affiliated Hospital, School of Medicine, Zhejiang University",2018,2
-"Second Affiliated Hospital, School of Medicine, Zhejiang University",2019,1
 Second Opinion Health,2016,1
 Second Sight Medical Products,2002,1
 Second Sight Medical Products,2006,1
@@ -26319,7 +26188,6 @@ Serge Beaulieu,2012,1
 "Serica Technologies, Inc.",2007,1
 "Serica Technologies, Inc.",2008,1
 Serina Therapeutics,2016,1
-Sermonix Pharmaceuticals LLC,2019,1
 Sernova Corp,2018,1
 Serodus ASA,2013,1
 Serum Institute of India Pvt. Ltd.,2012,1
@@ -26488,7 +26356,6 @@ Shanghai Mental Health Center,2017,1
 "Shanghai MicroPort Medical (Group) Co., Ltd.",2016,1
 "Shanghai MicroPort Medical (Group) Co., Ltd.",2017,2
 "Shanghai MicroPort Medical (Group) Co., Ltd.",2018,1
-"Shanghai MicroPort Medical (Group) Co., Ltd.",2019,2
 Shanghai Municipal Center for Disease Control and Prevention,2012,1
 Shanghai Nancy Medical Sci-Tech Co. Ltd,2010,1
 "Shanghai Pharmaceuticals Holding Co., Ltd",2013,1
@@ -26610,7 +26477,6 @@ Shin Poong Pharmaceutical Co. Ltd.,2018,1
 Shin Yukuhashi Hospital,2010,1
 "Shineway Pharmaceutical Co.,Ltd",2011,1
 "Shineway Pharmaceutical Co.,Ltd",2014,1
-"Shineway Pharmaceutical Co.,Ltd",2019,1
 Shionogi,2001,1
 Shionogi,2003,1
 Shionogi,2006,3
@@ -27541,7 +27407,6 @@ Stanford University,2015,7
 Stanford University,2016,6
 Stanford University,2017,4
 Stanford University,2018,6
-Stanford University,2019,2
 Stanley Cohen,2017,1
 "Stanley Jordan, MD",2011,1
 "Stanley Jordan, MD",2013,1
@@ -27692,7 +27557,6 @@ Stiftung Patientenkompetenz,2018,1
 "StimGuard, LLC.",2018,1
 StimLabs,2018,3
 "StimRelieve, LLC",2017,1
-"StimRelieve, LLC",2019,1
 Stimgenics LLC,2017,1
 Stimgenics LLC,2018,1
 Stimwave Technologies,2016,3
@@ -27874,7 +27738,6 @@ Sun Yat-sen University,2014,2
 Sun Yat-sen University,2016,2
 Sun Yat-sen University,2017,3
 Sun Yat-sen University,2018,1
-Sun Yat-sen University,2019,2
 Sundara Reddy,2017,1
 Sunesis Pharmaceuticals,2004,2
 Sunesis Pharmaceuticals,2005,2
@@ -28060,7 +27923,6 @@ Swisse Wellness Pty Ltd,2017,1
 Swisse Wellness Pty Ltd,2018,2
 "Sword Health, SA",2016,3
 "Sword Health, SA",2018,2
-"Sword Health, SA",2019,1
 "SyMap Medical (Suzhou), Ltd.",2016,1
 "SyMap Medical (Suzhou), Ltd.",2018,1
 Sydney Centre for Reproductive Health Research,2013,1
@@ -28337,7 +28199,6 @@ TSH Biopharm Corporation Limited,2013,1
 TSH Biopharm Corporation Limited,2014,1
 TSH Biopharm Corporation Limited,2015,1
 TSH Biopharm Corporation Limited,2018,1
-TSH Biopharm Corporation Limited,2019,1
 "TSI, LLC",2015,1
 "TTC Oncology, LLC",2017,1
 TTY Biopharm,2003,1
@@ -28406,7 +28267,6 @@ Taichung Veterans General Hospital,2010,1
 Taichung Veterans General Hospital,2012,2
 Taichung Veterans General Hospital,2013,1
 "Taiga Biotechnologies, Inc.",2018,1
-"Taiga Biotechnologies, Inc.",2019,1
 "Taiho Oncology, Inc.",2003,1
 "Taiho Oncology, Inc.",2005,4
 "Taiho Oncology, Inc.",2006,4
@@ -28503,7 +28363,6 @@ Takeda,2015,62
 Takeda,2016,58
 Takeda,2017,47
 Takeda,2018,36
-Takeda,2019,1
 "Tal Medical, Inc.",2015,1
 "Talaria, Inc",2010,1
 "Talaria, Inc",2011,2
@@ -28707,7 +28566,6 @@ Tel-Aviv Sourasky Medical Center,2012,1
 Tel-Aviv Sourasky Medical Center,2014,3
 Tel-Aviv Sourasky Medical Center,2015,2
 Tel-Aviv Sourasky Medical Center,2017,2
-Tel-Aviv Sourasky Medical Center,2019,1
 Tela Bio Inc,2017,1
 Teleflex,2012,1
 Teleflex,2015,1
@@ -28819,7 +28677,6 @@ Tetec AG,2017,1
 Tetec AG,2018,1
 "Tethys Bioscience, Inc.",2013,1
 Tetra Bio-Pharma,2018,2
-Tetra Bio-Pharma,2019,1
 Tetra Discovery Partners,2015,1
 Tetra Discovery Partners,2016,1
 Tetra Discovery Partners,2017,1
@@ -28934,7 +28791,6 @@ Texas Retina Associates,2006,1
 Texas Retina Associates,2007,1
 "Texas State University, San Marcos",2011,1
 Texas Tech University,2016,1
-Texas Tech University,2019,1
 Texas Tech University Health Sciences Center,2000,1
 Texas Tech University Health Sciences Center,2016,1
 Texas Tech University Health Sciences Center,2017,1
@@ -28953,7 +28809,6 @@ Thallion Pharmaceuticals,2010,1
 The Advanced Gynecologic Surgery Institute,2013,1
 The Affiliated Hospital of Qingdao University,2018,1
 The Affiliated Hospital of the Chinese Academy of Military Medical Sciences,2011,1
-The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School,2019,1
 The Alfred,2004,1
 The Alfred,2005,2
 The Alfred,2007,1
@@ -29016,7 +28871,6 @@ The Cleveland Clinic,2015,4
 The Cleveland Clinic,2016,2
 The Cleveland Clinic,2017,3
 The Cleveland Clinic,2018,11
-The Cleveland Clinic,2019,1
 The Coca-Cola Company,2010,1
 The Coca-Cola Company,2014,1
 "The Connecticut Sinus Center, PC",2010,1
@@ -29199,7 +29053,6 @@ The University of Hong Kong,2011,1
 The University of Hong Kong,2013,1
 The University of Hong Kong,2016,4
 The University of Hong Kong,2017,1
-The University of Hong Kong,2019,1
 The University of New South Wales,2003,1
 The University of New South Wales,2005,1
 The University of New South Wales,2006,1
@@ -29379,7 +29232,6 @@ Think Surgical Inc.,2017,1
 Thinq Pharma-CRO Pte. Ltd.,2016,1
 Third Affiliated Hospital of Guangzhou University of Traditional Chinese Medicine,2009,1
 "Thomas A. Aller, OD",2018,1
-Thomas Abrahamsson,2019,1
 Thomas J. Schnitzer,2009,1
 Thomas J. Schnitzer,2010,1
 Thomas J. Schnitzer,2013,1
@@ -29590,7 +29442,6 @@ Tocagen Inc.,2012,1
 Tocagen Inc.,2014,1
 Tocagen Inc.,2015,1
 Tocagen Inc.,2016,2
-Todd Doyle,2019,1
 "Todd M Koelling, MD",2011,1
 "Todd M Koelling, MD",2016,1
 Tokai University,2009,1
@@ -29805,7 +29656,6 @@ Transseptal Solutions Ltd.,2015,1
 "Traslational Cancer Drugs Pharma, SL",2011,1
 Travanti Pharma Inc.,2008,1
 Travanti Pharma Inc.,2009,1
-Travera LLC,2019,1
 "Treace Medical Concepts, Inc.",2018,1
 Treague Ltd,2009,1
 Tree of Life Pharma Ltd.,2018,1
@@ -29921,7 +29771,6 @@ Tufts Medical Center,2014,1
 Tufts Medical Center,2015,1
 Tufts Medical Center,2017,2
 Tufts Medical Center,2018,1
-Tufts Medical Center,2019,1
 Tufts University,2002,1
 Tufts University,2008,1
 Tufts University,2010,2
@@ -30102,7 +29951,6 @@ UMC Utrecht,2014,2
 UMC Utrecht,2015,1
 UMC Utrecht,2016,2
 UMC Utrecht,2018,1
-UMC Utrecht,2019,2
 UMN Pharma Inc.,2009,1
 UMN Pharma Inc.,2010,1
 UMN Pharma Inc.,2011,2
@@ -30348,7 +30196,6 @@ Universidade Federal de Goias,2011,1
 Universidade Federal de Sao Carlos,2016,1
 Universidade do Porto,2014,1
 Universidade do Porto,2015,2
-Universidade do Porto,2019,1
 Universita degli Studi di Catania,2010,4
 Universita di Verona,2016,1
 Universita di Verona,2017,1
@@ -30359,7 +30206,6 @@ Universitair Ziekenhuis Brussel,2014,1
 Universitair Ziekenhuis Brussel,2016,2
 Universitair Ziekenhuis Brussel,2017,2
 Universitair Ziekenhuis Brussel,2018,1
-Universitair Ziekenhuis Brussel,2019,1
 Universitaire Ziekenhuizen Leuven,2004,1
 Universitaire Ziekenhuizen Leuven,2005,1
 Universitaire Ziekenhuizen Leuven,2006,1
@@ -30500,7 +30346,6 @@ University Hospital Southampton NHS Foundation Trust,2012,1
 University Hospital Southampton NHS Foundation Trust,2016,1
 University Hospital Southampton NHS Foundation Trust,2017,2
 University Hospital Southampton NHS Foundation Trust,2018,1
-University Hospital Southampton NHS Foundation Trust,2019,1
 University Hospital Tuebingen,2003,1
 University Hospital Tuebingen,2005,1
 University Hospital Tuebingen,2006,2
@@ -30588,7 +30433,6 @@ University Hospital of North Norway,2018,1
 "University Hospital, Bordeaux",2014,5
 "University Hospital, Bordeaux",2015,1
 "University Hospital, Bordeaux",2018,3
-"University Hospital, Bordeaux",2019,2
 "University Hospital, Brest",2007,3
 "University Hospital, Brest",2009,1
 "University Hospital, Brest",2012,1
@@ -30597,7 +30441,6 @@ University Hospital of North Norway,2018,1
 "University Hospital, Brest",2016,2
 "University Hospital, Brest",2017,1
 "University Hospital, Brest",2018,2
-"University Hospital, Brest",2019,1
 "University Hospital, Caen",2003,1
 "University Hospital, Caen",2005,1
 "University Hospital, Caen",2006,1
@@ -30701,7 +30544,6 @@ University Hospital of North Norway,2018,1
 "University Hospital, Montpellier",2016,3
 "University Hospital, Montpellier",2017,2
 "University Hospital, Montpellier",2018,3
-"University Hospital, Montpellier",2019,1
 "University Hospital, Rouen",2003,1
 "University Hospital, Rouen",2008,1
 "University Hospital, Rouen",2009,2
@@ -30732,7 +30574,6 @@ University Hospital of North Norway,2018,1
 "University Hospital, Toulouse",2016,5
 "University Hospital, Toulouse",2017,1
 "University Hospital, Toulouse",2018,1
-"University Hospital, Toulouse",2019,2
 "University Hospital, Tours",2006,1
 "University Hospital, Tours",2007,1
 "University Hospital, Tours",2008,2
@@ -30780,7 +30621,6 @@ University Medical Center Groningen,2015,5
 University Medical Center Groningen,2016,2
 University Medical Center Groningen,2017,1
 University Medical Center Groningen,2018,1
-University Medical Center Groningen,2019,1
 University Medical Center Nijmegen,2010,1
 University Medical Center Nijmegen,2012,1
 University Medical Center Nijmegen,2017,1
@@ -30854,7 +30694,6 @@ University of Alabama at Birmingham,2015,4
 University of Alabama at Birmingham,2016,5
 University of Alabama at Birmingham,2017,6
 University of Alabama at Birmingham,2018,8
-University of Alabama at Birmingham,2019,1
 University of Alberta,2003,2
 University of Alberta,2004,2
 University of Alberta,2005,8
@@ -30942,7 +30781,6 @@ University of British Columbia,2015,7
 University of British Columbia,2016,10
 University of British Columbia,2017,9
 University of British Columbia,2018,8
-University of British Columbia,2019,2
 University of Buenos Aires,2012,1
 University of Calgary,1999,2
 University of Calgary,2001,1
@@ -30979,7 +30817,6 @@ University of Calgary,2018,3
 "University of California, Davis",2016,9
 "University of California, Davis",2017,7
 "University of California, Davis",2018,4
-"University of California, Davis",2019,1
 "University of California, Irvine",2000,1
 "University of California, Irvine",2001,1
 "University of California, Irvine",2002,1
@@ -31014,7 +30851,6 @@ University of Calgary,2018,3
 "University of California, Los Angeles",2015,2
 "University of California, Los Angeles",2017,3
 "University of California, Los Angeles",2018,7
-"University of California, Los Angeles",2019,1
 "University of California, Merced",2018,1
 "University of California, Riverside",2018,1
 "University of California, San Diego",2003,1
@@ -31050,7 +30886,6 @@ University of Calgary,2018,3
 "University of California, San Francisco",2016,10
 "University of California, San Francisco",2017,9
 "University of California, San Francisco",2018,17
-"University of California, San Francisco",2019,1
 University of Cambridge,2005,1
 University of Cambridge,2009,1
 University of Cambridge,2010,1
@@ -31092,7 +30927,6 @@ University of Chicago,2015,3
 University of Chicago,2016,1
 University of Chicago,2017,3
 University of Chicago,2018,8
-University of Chicago,2019,1
 University of Chieti,2003,1
 University of Chile,2009,2
 University of Chile,2010,1
@@ -31113,7 +30947,6 @@ University of Cincinnati,2013,2
 University of Cincinnati,2014,2
 University of Cincinnati,2015,1
 University of Cincinnati,2018,2
-University of Cincinnati,2019,1
 University of Coimbra,2012,1
 University of Coimbra,2018,1
 University of Cologne,2001,1
@@ -31151,7 +30984,6 @@ University of Colorado Denver School of Medicine Barbara Davis Center,2017,1
 "University of Colorado, Denver",2016,3
 "University of Colorado, Denver",2017,11
 "University of Colorado, Denver",2018,4
-"University of Colorado, Denver",2019,1
 University of Connecticut,2002,1
 University of Connecticut,2004,1
 University of Copenhagen,2000,1
@@ -31178,7 +31010,6 @@ University of Dundee,2009,1
 University of Dundee,2013,2
 University of Dundee,2016,2
 University of Dundee,2017,2
-University of Dundee,2019,1
 University of East Anglia,2001,1
 University of East Anglia,2007,1
 University of East Anglia,2010,1
@@ -31333,7 +31164,6 @@ University of Leeds,2015,1
 University of Leeds,2016,5
 University of Leeds,2017,5
 University of Leeds,2018,3
-University of Leeds,2019,1
 University of Leicester,2013,1
 University of Leicester,2015,1
 University of Leicester,2016,2
@@ -31812,7 +31642,6 @@ University of Southern California,2015,4
 University of Southern California,2016,2
 University of Southern California,2017,2
 University of Southern California,2018,5
-University of Southern California,2019,1
 University of Southern Denmark,2001,1
 University of Southern Denmark,2005,1
 University of Southern Denmark,2006,1
@@ -31954,7 +31783,6 @@ University of Virginia,2015,5
 University of Virginia,2016,7
 University of Virginia,2017,5
 University of Virginia,2018,7
-University of Virginia,2019,1
 University of Warwick,2011,1
 University of Warwick,2014,1
 University of Washington,2000,2
@@ -32086,7 +31914,6 @@ União Química Farmacêutica Nacional S/A,2017,3
 Unum Therapeutics Inc.,2016,2
 Unum Therapeutics Inc.,2017,1
 Unum Therapeutics Inc.,2018,1
-Unum Therapeutics Inc.,2019,1
 "UpSpring Baby, Ltd.",2008,1
 "UpSpring Baby, Ltd.",2010,1
 Uppsala University,2005,1
@@ -32687,12 +32514,10 @@ VieCuri Medical Centre,2016,1
 Viela Bio,2016,1
 Viela Bio,2018,2
 Vielight Inc.,2017,1
-Vielight Inc.,2019,1
 Vietnam National University,2014,1
 Vietnam National University,2015,1
 Vietstar Biomedical Research,2016,1
 Vietstar Biomedical Research,2017,1
-Viewray Inc.,2019,1
 Vifor Fresenius Medical Care Renal Pharma,2016,2
 Vifor Fresenius Medical Care Renal Pharma,2018,2
 Vifor Inc.,2003,1
@@ -33166,7 +32991,6 @@ West-Ward Pharmaceutical,2015,1
 West-Ward Pharmaceutical,2018,2
 Western Galilee Hospital-Nahariya,2014,1
 "Western General Hospital, Australia",2014,1
-Western Health and Social Care Trust,2019,1
 Western Michigan University,2009,1
 Western Sky Medical Research,2008,1
 Western Sky Medical Research,2010,1
@@ -33233,7 +33057,6 @@ Wills Eye,2012,2
 Wills Eye,2014,1
 Wills Eye,2017,1
 Wills Eye,2018,1
-Wills Eye,2019,1
 Wilson Liambila,2012,1
 Wilson Therapeutics AB,2014,1
 Wilson Therapeutics AB,2016,1
@@ -33281,7 +33104,6 @@ Wolfgang Hilbe,2007,1
 Wolfram Samlowski,2016,1
 Wolfson Medical Center,2006,1
 Wolfson Medical Center,2009,1
-Wolfson Medical Center,2019,1
 Woman's,2011,2
 Woman's,2013,1
 Woman's,2014,1
@@ -33730,7 +33552,6 @@ Zeria Pharmaceutical,2014,4
 Zeria Pharmaceutical,2015,2
 Zeria Pharmaceutical,2016,3
 Zeria Pharmaceutical,2018,1
-Zeria Pharmaceutical,2019,1
 Zespri International Limited,2015,1
 Zeta Technologies,2018,1
 Zetiq Technologies,2012,1
@@ -33755,7 +33576,6 @@ Zhejiang Provincial Center for Disease Control and Prevention,2017,1
 Zhejiang Provincial People’s Hospital,2017,1
 Zhejiang University,2014,1
 Zhejiang University,2015,2
-Zhejiang University,2019,1
 "Zhejiang Xingyue Biotechnology Co., Ltd.",2013,1
 "Zhejiang Xingyue Biotechnology Co., Ltd.",2014,1
 "Zhejiang Zylox Medical Device Co., Ltd.",2015,1
@@ -33793,7 +33613,6 @@ Zimmer Biomet,2015,7
 Zimmer Biomet,2016,14
 Zimmer Biomet,2017,14
 Zimmer Biomet,2018,7
-Zimmer Biomet,2019,1
 "Zimmer Orthobiologics, Inc.",2006,1
 "Zimmer Orthobiologics, Inc.",2011,3
 "Zimmer Orthobiologics, Inc.",2012,1
